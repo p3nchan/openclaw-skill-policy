@@ -40,7 +40,7 @@ Before installation, automatically:
 
 ### Layer 3 — Permission Declaration
 
-> Depends on OpenClaw platform support. See [Feature Request #28298](https://github.com/openclaw/openclaw/issues/28298)
+> Depends on OpenClaw platform support. See [Feature Request #28298](https://github.com/openclaw/openclaw/issues/28360)
 
 **Ideal mechanism (pending platform implementation):**
 - Skills include a `manifest.json` declaring:
@@ -57,7 +57,7 @@ Before installation, automatically:
 
 ### Layer 4 — Runtime Enforcement
 
-> Depends on OpenClaw platform support. See [Feature Request #28298](https://github.com/openclaw/openclaw/issues/28298)
+> Depends on OpenClaw platform support. See [Feature Request #28298](https://github.com/openclaw/openclaw/issues/28360)
 
 **Ideal mechanism (pending platform implementation):**
 - macOS `sandbox-exec` or Linux `firejail`/`bubblewrap` to restrict skill execution
@@ -103,7 +103,7 @@ This is a living document. If you run an OpenClaw instance (or any AI agent with
 
 ## Related
 
-- [OpenClaw Feature Request: Skill manifest.json + runtime sandbox](https://github.com/openclaw/openclaw/issues/28298)
+- [OpenClaw Feature Request: Skill manifest.json + runtime sandbox](https://github.com/openclaw/openclaw/issues/28360)
 - [OpenClaw Documentation](https://docs.openclaw.ai)
 - [ClaWHub — Skill Marketplace](https://clawhub.com)
 
